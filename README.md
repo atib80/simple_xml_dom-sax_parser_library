@@ -1,1 +1,5 @@
-"# Simple XML DOM/SAX Parser C++ code library" 
+##############################################
+# Simple XML DOM/SAX parser C++ code library #
+#                                            #
+# It's a work in progress...                 #
+##############################################
